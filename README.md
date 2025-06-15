@@ -179,5 +179,3 @@ You will see:
 ---
 
 ---
-
-👉 **If you want — I can also prepare a `requirements.txt` for you that you can directly push to GitHub. Shall I?**
