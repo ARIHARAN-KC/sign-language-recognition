@@ -1,6 +1,3 @@
-Perfect — let’s write a fully professional and properly formatted README for your **Sign Language to Text and Speech Conversion** project, suitable for publishing on GitHub.
-
----
 
 # Sign Language to Text and Speech Conversion
 
