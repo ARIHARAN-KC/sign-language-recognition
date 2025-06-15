@@ -61,3 +61,15 @@ Ensure the following files are present in the project directory:
 ```bash
 git clone https://github.com/ARIHARAN-KC/sign-language-recognition.git
 cd Sign-Language-To-Text-and-Speech-Conversion-master/Sign-Language-To-Text-and-Speech-Conversion-master
+
+🤝 Contributors
+ARIHARAN-KC (Original Author)
+
+🙏 Acknowledgements
+cvzone - Hand Tracking
+
+pyttsx3 - Text-to-Speech
+
+pyenchant - Word Suggestions
+
+⭐ If you like this project, please consider giving it a star on GitHub. It really helps! ⭐
