@@ -8,8 +8,6 @@ This project converts sign language gestures into text and speech in real-time u
 
 ![Sign Language to Text and Speech Conversion](![Screenshot (53)](https://github.com/user-attachments/assets/9efe854a-114b-4437-a381-4645c75e321e))
 
-> _You can replace `![Screenshot (53)](https://github.com/user-attachments/assets/0acb35a1-3c6a-43d7-8df6-bf1e7fa52eab)` with your actual screenshot path._
-
 ---
 
 ## 🚀 Features
